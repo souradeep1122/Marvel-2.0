@@ -1,0 +1,81 @@
+.heading{
+  text-align: center;
+  color: rgb(0, 255, 72);
+  font-style: bold;
+  font-size: 50px;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.sub_topics{
+  text-align: center;
+  font-size: 50px;
+  color: rgb(255, 81, 0);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.img1{
+  width: 300px;
+  height: 450px;
+  border-radius: 10px;
+  object-fit: cover;
+
+}
+.img2{
+  width: 300px;
+  height: 450px;
+  border-radius: 10px;
+  object-fit: cover;
+  background-color: aqua;
+}
+.img3{
+  width: 300px;
+  height: 450px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+.img4{
+  width: 300px;
+  height: 450px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+.subheading{
+  color: rgb(237, 12, 211);
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+
+}
+.heading_div{
+  background-color: rgb(253, 254, 255);
+}
+.image1_div{
+  display: inline-block; 
+  width: 300px;
+  height: 450px;
+
+}
+.img2_div{
+  display: inline-block;
+  margin-left:10px;
+  width: 300px;
+  height: 450px;
+}
+.img3_div{
+  display: inline-block;
+  margin-left: 10px;
+  width: 300px;
+  height: 450px;
+}
+.img4_div{
+  display: inline-block;
+  margin-left: 10px;
+  width: 300px;
+  height: 450px;
+}
+.image_div{
+  width: 100%;
+  align-self: center;
+  object-fit: contain;
+}
+
